@@ -1,0 +1,6 @@
+# config.py
+BOT_TOKEN = "7743377838:AAGF7IcXr8iLrZCnP-IfxOS32pgyXP6LsYw"
+ADMIN_IDS = [926260488]
+API_KEYS = {"weather": "a9529e77ef294e3b892223328250703"}
+DATABASE_NAME = "weather.db"
+MAILING_TIME = (10, 0)  # (часы, минуты)
